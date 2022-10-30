@@ -1,2 +1,5 @@
 # doppler-velocity-log
-A Doppler Velocity Log (DVL) is an acoustic sensor that estimates velocity relative to the sea bottom.
+
+ExplorerDVL
+Teledyne RD Instruments (c) 2007 All rights reserved.
+Firmware Version: 34.xx
